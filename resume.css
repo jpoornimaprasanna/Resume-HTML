@@ -1,0 +1,40 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+.center{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+.div1{
+    width: 100%;
+}
+.line_height{
+    line-height: 5px;
+}
+.line{
+    border-bottom: 2px solid black;
+}
+.indent{
+    text-indent: 3em;
+
+}
+.textalign_left{
+    text-align: left;
+}
+.indent10{
+text-indent: 60em;
+    
+}
+floatleft{
+    float: left;
+    display: block;
+}
+.width50{
+    width:46%;
+    background-color: lightpink;
+}
+.width100 {
+    width: 100%;
+}
